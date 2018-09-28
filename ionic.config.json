@@ -1,0 +1,7 @@
+{
+  "name": "HandyJacks",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
